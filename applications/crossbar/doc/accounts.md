@@ -63,3 +63,12 @@ So given `"pvt_tree":["1", "2", "3"]`, it can be determined that "3" is the pare
     ]
 }
 `````
+
+### Additional Possible Requests
+
+Other possible `GET` request suffixes to `http://{SERVER}/v2/accounts/{ACCOUNT_ID}/` are:
+* children
+* parents
+* siblings
+* descendants
+* api_key
